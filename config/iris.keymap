@@ -52,7 +52,7 @@
 // | CNTRL    | GUI    | ALT    | PSCRN|  HOME  | PG_UP   |   "["  |      |  "]"    | PG_DN    |  <     |  v      |  ^    |   >     | CNTRL |
 //                     	               | LOWER  | SPACE   |  DEL   |      | ENTER   | BSPC     |  RAISE  |
 			bindings = <
-    &kp TILDE &kp EXCL &kp AT   &kpHASH&kp DLLR &kp PRCNT                           &kp CARET  &kp AMPS &kp STAR  &kp LPAR&kp RPAR  &kp BSPC
+    &kp TILDE &kp EXCL &kp AT   &kp HASH&kp DLLR &kp PRCNT                           &kp CARET  &kp AMPS &kp STAR  &kp LPAR&kp RPAR  &kp BSPC
     &kp DEL   &kp F1   &kp F2   &kp F3 &kp F4   &kp F5                              &kp F6     &kp UNDER&kp PLUS  &kp LBRC&kp RBRC  &kp PIPE
     &kp LSHFT &kp F7   &kp F8   &kp F9 &kp F10  &kp F11                             &kp F12    &kp PIPE &kp PIPE  &kp DOT &kp FSLH  &kp RSHFT
     &kp LCTRL &kp LGUI &kp LALT &kp PSCRN  &bt BT_NXT &kp PG_UP &kp LBKT    &kp RBKT  &kp PG_DN &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &kp RCTRL
